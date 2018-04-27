@@ -1,0 +1,6 @@
+name: JumpLeague
+api: [3.0.0-ALPHA12]
+main: Bluplayz\JumpLeague\Main\JumpLeague
+version: 1.0
+author: HummelSvem
+website: https://discord.gg/CUvUU3F
